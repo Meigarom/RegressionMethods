@@ -22,4 +22,4 @@ The Simple linear regression model fits the four conditions below:
 - The errors, at each value of the predictor, have **Equal Variance**
 
 ### The Coefficient of Determination, r-squared
-![img]( http://latex.codecogs.com/svg.latex?%5Cfrac%7B%5Csigma%7D%7B%5Cmu%7D ) 
+![first equation]( http://latex.codecogs.com/gif.latex?%5Cfrac%7B%5Csigma%7D%7B%5Cmu%7D ) 
