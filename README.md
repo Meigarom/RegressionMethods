@@ -22,7 +22,8 @@ The Simple linear regression model fits the four conditions below:
 - The errors, at each value of the predictor, have **Equal Variance**
 
 ### The Coefficient of Determination, r-squared
-- SSR ( Regression Sum of Squares ): Quantifies how far the estimated sloped regression line, yhat, is from the horizontal, ybar ( no relationship line ).
+- SSR ( Reg Sum of Squares ): Quantifies how far the estimated sloped regression line, yhat, is from the horizontal, ybar (no relationship line).
+
 ![SSR]( https://latex.codecogs.com/gif.latex?SSR&space;=&space;\sum_{i=1}^{n}(&space;\hat{y_{i}}&space;-&space;\bar{&space;y&space;}&space;)^2 ).
 
 - SSE ( Error Sum of Squares ): Quantifies how much the data points, yi, vary around the estimated regression line, yhat.
