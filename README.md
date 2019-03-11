@@ -37,7 +37,8 @@ The Simple linear regression model fits the four conditions below:
 #### **Coefficient of determination** or **R-squared**: 
 Percentage of the variation in y is reduced by taking into account predictor x.
 Percentage of the variation in y is 'explained by' the variation in predictor x.
+
 ![R-squared]( https://latex.codecogs.com/gif.latex?r%5E2%20%3D%20%5Cfrac%7B%20SSR%20%7D%7B%20SSTO%20%7D%20%3D%201%20-%20%5Cfrac%7BSSE%7D%7BSSTO%7D )
-- r-squared is a number between 0 and 1.
-- If r-squared = 1, all of the data points fall perfectly on the regression line. The predictor x accounts for all the variation in y!.
-- If r-squared = 0, the estimated regression line is perfectly horizontal. The predictor x accounts for none of the variation in y!.
+- **r-squared** is a number between 0 and 1.
+- If **r-squared = 1**, all of the data points fall perfectly on the regression line. The predictor x accounts for all the variation in y!.
+- If **r-squared = 0**, the estimated regression line is perfectly horizontal. The predictor x accounts for none of the variation in y!.
