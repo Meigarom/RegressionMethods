@@ -14,10 +14,9 @@ How to interpret the coefficient of determination ( Rsquare )
 - **Least Squares Criterios**: Minimize the sum of the squared prediction errors.
 - **Error ( Residual )**: y - yhat
 
-### What is the "Best Fitting Line"??
+### The Simple Linear Regression Model
 The Simple linear regression model fits the four conditions below:
 - The mean of the response, at each value of the predictor, is a **Linear function** of the x
 - The errors are **Independent**
 - The errors, at each value of the predictor, are **Normallly Distribuited**
 - The errors, at each value of the predictor, have **Equal Variance**
-
