@@ -22,6 +22,7 @@ The Simple linear regression model fits the four conditions below:
 - The errors, at each value of the predictor, have **Equal Variance**
 
 ### The Coefficient of Determination, r-squared
+Measure the strenght of the relationship
 - SSR ( Reg Sum of Squares ): Quantifies how far the estimated sloped regression line, yhat, is from the horizontal, ybar (no relationship line).
 
 ![SSR]( https://latex.codecogs.com/gif.latex?SSR&space;=&space;\sum_{i=1}^{n}(&space;\hat{y_{i}}&space;-&space;\bar{&space;y&space;}&space;)^2 ).
@@ -42,3 +43,6 @@ Percentage of the variation in y is 'explained by' the variation in predictor x.
 - **r-squared** is a number between 0 and 1.
 - If **r-squared = 1**, all of the data points fall perfectly on the regression line. The predictor x accounts for all the variation in y!.
 - If **r-squared = 0**, the estimated regression line is perfectly horizontal. The predictor x accounts for none of the variation in y!.
+
+### (Pearson) Correlation Coefficient r
+Measure the sign of the relationship
