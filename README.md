@@ -46,3 +46,19 @@ Percentage of the variation in y is 'explained by' the variation in predictor x.
 
 ### (Pearson) Correlation Coefficient r
 Measure the sign of the relationship
+
+### R-squared Cautions
+1. The r-squared quantifies the strength of a **linear** relationship. If r-squared = 0, tells us that if there is a relationship between x and y, it's not linear.
+
+2. A large r-squared value should not be interpreted as meaning that the estimated regression line fits the data well. 
+Its large values does suggest that taking into account the predictor is better than not doing so. It just doesn't tell us that we could still do better.
+
+3. The r-squared can be greatly affected by just one data point (or a few data points).
+
+4. Correlation (or association) does not imply causation.
+
+5. Ecological correlations, correlations that are based on rates or averages, tend to overstate the strength of an association.
+
+6. A **statistically significant** r-squared does not imply that the slope Beta1 is meaninfully different from 0.
+
+7. A large r-squared value does not necessarily mean that an useful prediction of the response can be made. It's still possible to get prediction intervals or confidence intervals that are too wide to be useful.
