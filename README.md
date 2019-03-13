@@ -62,3 +62,9 @@ Its large values does suggest that taking into account the predictor is better t
 6. A **statistically significant** r-squared does not imply that the slope Beta1 is meaninfully different from 0.
 
 7. A large r-squared value does not necessarily mean that an useful prediction of the response can be made. It's still possible to get prediction intervals or confidence intervals that are too wide to be useful.
+
+## Lesson 02 - Simple Linear Regression Evaluation
+This lesson presents two alternatives methods for testing if a linear association exists between the 
+predictor x and the response y in a simple linear regression model.
+- The t-test for the slope
+- Analysis of variance (ANOVA) F-test
