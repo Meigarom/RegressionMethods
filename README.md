@@ -66,5 +66,7 @@ Its large values does suggest that taking into account the predictor is better t
 ## Lesson 02 - Simple Linear Regression Evaluation
 This lesson presents two alternatives methods for testing if a linear association exists between the 
 predictor x and the response y in a simple linear regression model.
+![B0](https://latex.codecogs.com/gif.latex?H_%7B0%7D%3A%20%5Cbeta_%7B1%7D%20%3D%200 ) versus (https://latex.codecogs.com/gif.latex?H_%7BA%7D%3A%20%5Cbeta_%7B1%7D%20%5Cneq%200)
 - The t-test for the slope
 - Analysis of variance (ANOVA) F-test
+
